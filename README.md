@@ -1,4 +1,4 @@
-# Capstone Engagement  
+# Capstone Engagement - Red vs Blue  
 
 Assessment, Analysis, and Hardening of a Vulnerable System.
 
